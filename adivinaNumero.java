@@ -1,6 +1,6 @@
 import java.util.Random;
 import javax.swing.JOptionPane;
-public class adivinaNumero {
+public class AdivinaNumero {
     public static void main(String[] args) {
         // PASO 0. meter número RANDMON e inicilizar variables y contadores
             // generamos un numero entero desde 0 a 100, que se almacena en "numero"

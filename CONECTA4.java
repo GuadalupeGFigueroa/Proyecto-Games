@@ -1,3 +1,3 @@
-public class CONECTA4 {
+public class Conecta4 {
     
 }
