@@ -1,3 +1,3 @@
-public class Ahorcado {
+public class ahorcado {
     
 }
