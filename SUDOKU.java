@@ -1,4 +1,4 @@
-public class sudoku {
+public class Sudoku {
 
     public static void main(String[] args) {
 
@@ -98,4 +98,4 @@ public class sudoku {
         
 
     }
-}    
+}
